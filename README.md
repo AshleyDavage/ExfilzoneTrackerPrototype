@@ -1,6 +1,8 @@
 # Exfilzonetracker Prototype
 A prototype to view and track items required in Contractor's Showdown Exfilzone, designed to run as a floating window inside of OVRToolkit.
 
+This software will most likely not be updated in its current form.
+The in-game items can be found in src/data/items.json, most of the information was obtained from the [Exfilzone Wiki](https://csez.miraheze.org/wiki/Junk) the rest was obtained in-game through the application prototype by manually adding.
 
 # Default Install Instructions
 ## Run the app
