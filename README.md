@@ -1,5 +1,8 @@
-# Exfilzonetracker app
+# Exfilzonetracker Prototype
+A prototype to view and track items required in Contractor's Showdown Exfilzone, designed to run as a floating window inside of OVRToolkit.
 
+
+# Default Install Instructions
 ## Run the app
 
 ### uv
